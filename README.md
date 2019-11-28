@@ -2,7 +2,7 @@
 
 A simple object constructor with a method which combines attributes of elasticsearch package to extract data from elasticstack with some parameters added by the client
 
-![](https://github.com/arjuninstil/elasticstack_extractor/tree/master/Images/Capture.PNG)
+![](https://github.com/arjuninstil/elasticstack_extractor/blob/master/Images/Capture.PNG)
 
 ### Parameters :
 * host – node to be connected to
